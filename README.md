@@ -1,5 +1,9 @@
 # 🚨 Spam Email Detection 🚨
 
+
+![Spam Email Detection](images/1.png)
+
+
 ## 📝 Overview
 This project is a **Spam Email Detection** web application built with a **Flask backend**. It uses a **Naive Bayes classifier** for machine learning-based spam detection. The app allows users to input a message, and the model will predict whether it’s spam or not.
 
