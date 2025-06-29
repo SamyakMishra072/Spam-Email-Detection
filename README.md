@@ -33,4 +33,4 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/SamyakMishra072/Spam-Email-Detection.git
 cd Spam-Email-Detection
-python3 
+python3 app.py
